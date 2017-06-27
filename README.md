@@ -3,16 +3,25 @@ The dependencies needed to run this are
 -JOGL and GraphicsLib3D
 -If need be, you can compile the scene with compile.bat and then run the program with run.bat
 
+![Alt text](/images/Scene.jpg?raw=true "")
+
 ## Controls
 
 ###### Controls for camera.
-A – camera Left				
+A – camera Left	
+
 J – rotate camera right
+
 D – camera Right			
+
 L – rotate camera left
+
 W – camera forward			
+
 K – rotate camera down
+
 S – camera backward			
+
 I – rotate camera up
 
 Controls for light source.
