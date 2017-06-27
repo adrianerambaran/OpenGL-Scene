@@ -6,10 +6,15 @@ The dependencies needed to run this are
 ## Controls
 
 ###### Controls for camera.
-A – camera Left				J – rotate camera right
-D – camera Right			L – rotate camera left
-W – camera forward			K – rotate camera down
-S – camera backward			I – rotate camera up
+A – camera Left				
+J – rotate camera right
+D – camera Right			
+L – rotate camera left
+W – camera forward			
+K – rotate camera down
+S – camera backward			
+I – rotate camera up
+
 Controls for light source.
 Mouse wheel up – move light source forward
 Mouse wheel down – move light source backward
